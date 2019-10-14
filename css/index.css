@@ -70,6 +70,10 @@ a {
 	
   }
 
+  a:hover {
+    color: red;
+  }
+
 p {
     line-height: 1.4;
 }
